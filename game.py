@@ -1,4 +1,4 @@
-# Program in Python to create a Snake Game
+# Program in Python to create a Snake Game 
 
 from tkinter import *
 import random
